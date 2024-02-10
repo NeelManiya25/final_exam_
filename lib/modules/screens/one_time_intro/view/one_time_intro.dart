@@ -15,19 +15,22 @@ class intropage extends StatefulWidget {
 class _intropageState extends State<intropage> {
   final List pages = [
     {
-      'image': 'assets/images/images.png',
+      'image':
+          'assets/images/online-shopping-trolley-click-and-collect-order-logo-design-template-vector.jpg',
       'title': 'Welcome to Super Store',
       'description':
-          'An ecommerce app allows users to shop online, browse product catalogs, create wish lists, add items to a cart, and complete purchases.'
+          'Ecommerce is a method of buying and selling goods and services online. The definition of ecommerce business can also include tactics like affiliate marketing. '
     },
     {
-      'image': 'assets/images/images.png',
+      'image':
+          'assets/images/online-shopping-trolley-click-and-collect-order-logo-design-template-vector.jpg',
       'title': 'Explore Features',
       'description':
-          'It also provides payment processing, shipping, and order management capabilities.'
+          'You can use ecommerce channels such as your own website, an established selling website like Amazon, or social media to drive online sales.'
     },
     {
-      'image': 'assets/images/images.png',
+      'image':
+          'assets/images/online-shopping-trolley-click-and-collect-order-logo-design-template-vector.jpg',
       'title': 'Get Started',
       'description': 'Let\'s get started!'
     }

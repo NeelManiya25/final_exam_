@@ -37,7 +37,7 @@ class Signup extends StatelessWidget {
                   decoration: BoxDecoration(
                     image: DecorationImage(
                       image: AssetImage(
-                        "assets/images/images.png",
+                        "assets/images/online-shopping-trolley-click-and-collect-order-logo-design-template-vector.jpg",
                       ),
                       fit: BoxFit.cover,
                     ),
@@ -139,7 +139,7 @@ class Signup extends StatelessWidget {
                     height: h * .07,
                     width: w,
                     decoration: BoxDecoration(
-                      color: Color(0xff99BC85),
+                      color: Color(0xff789461),
                       borderRadius: BorderRadius.circular(20),
                     ),
                     alignment: Alignment.center,
@@ -160,7 +160,7 @@ class Signup extends StatelessWidget {
                       style: GoogleFonts.getFont(
                         'Montserrat',
                         fontSize: 15,
-                        color: Color(0xff99BC85),
+                        color: Color(0xff789461),
                       ),
                     ),
                     GestureDetector(
@@ -172,7 +172,7 @@ class Signup extends StatelessWidget {
                         style: GoogleFonts.getFont(
                           'Montserrat',
                           fontSize: 15,
-                          color: Color(0xff99BC85),
+                          color: Color(0xff789461),
                         ),
                       ),
                     ),

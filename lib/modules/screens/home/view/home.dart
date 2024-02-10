@@ -90,7 +90,7 @@ class Home extends StatelessWidget {
             child: Image.asset(""),
           ),
           SizedBox(
-            width: 30,
+            width: 15,
           ),
         ],
       ),
@@ -162,6 +162,14 @@ class Home extends StatelessWidget {
           );
         },
       ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          setState(() {});
+        },
+        child: const Icon(Icons.add_shopping_cart),
+      ),
     );
   }
+
+  void setState(Null Function() param0) {}
 }

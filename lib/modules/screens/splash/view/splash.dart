@@ -29,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen> {
           decoration: BoxDecoration(
             image: DecorationImage(
               image: AssetImage(
-                "assets/images/images.png",
+                "assets/images/online-shopping-trolley-click-and-collect-order-logo-design-template-vector.jpg",
               ),
               fit: BoxFit.cover,
             ),
